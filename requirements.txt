@@ -1,0 +1,7 @@
+opencv-python
+numpy
+dlib
+scipy
+mediapipe
+facenet-pytorch
+scikit-learn
